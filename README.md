@@ -1,2 +1,2 @@
 # webscrapping
- extracting text(question) from a web pages
+ extracting questions from the site
